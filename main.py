@@ -11,6 +11,6 @@ print(f"Olá {nome}, como vai?")
 confirmar = input(f"Você tem {idade} anos? ")
 
 if confirmar == "s":
-    print("Que legal!")
+    print("Você tem acesso ao conteúdo!")
 else:
-    print("Tchau")
+    print("Você não tem acesso ao conteúdo")
