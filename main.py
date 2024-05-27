@@ -2,7 +2,7 @@ print("olá mundo")
 
 print("Estou estudando python")
 
-idade = int(input("digite sua idade: "))
+idade = 18
 
 if idade >= 18:
     print("voce pode entrar")
