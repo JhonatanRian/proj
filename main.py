@@ -6,4 +6,4 @@ idade = 18
 
 nome = input("Qual seu nome? ")
 
-print("Olá " + nome)
+print(f"Olá {nome}, como vai?")
