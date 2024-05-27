@@ -2,7 +2,7 @@ print("olá mundo")
 
 print("Estou estudando python")
 
-idade = 18
+idade = input("Qual sua idade? ")
 
 nome = input("Qual seu nome? ")
 
